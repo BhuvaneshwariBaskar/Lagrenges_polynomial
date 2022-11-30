@@ -1,0 +1,2 @@
+# Lagrenges_polynomial
+Lagrenges_polynomial_in_Jupyter_Notebook
